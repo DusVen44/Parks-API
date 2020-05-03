@@ -1,4 +1,4 @@
-console.log("Hey")
+'use strict';
 
 const api = "OnObdX5SThnmThQpQ8u4EgaLmdzHmMiYsf6W99eP";
 const searchURL = "https://developer.nps.gov/api/v1/parks?";
